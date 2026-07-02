@@ -1,0 +1,13 @@
+Car,Style,Range_Km,Transmission,Vehicle_Type,Price_Lakhs,Capacity,BootSpace_L,Base_Model,Top_Model
+Tata Nexo,Compact,312,Automatic,Electric,17.4,5,350,XM,Dark XZ Plus LUX
+Tata Tigor,Subcompact,306,Automatic,Electric,13.64,5,316,XE,XZ Plus Dual Tone
+Tata Nexo,Compact,437,Automatic,Electric,19.24,5,350,XZ Plus 3.3,XZ Plus Lux 7.2 kW
+MG ZS EV,Compact,419,Automatic,Electric,25.88,5,448,Excite,Exclusive
+Hyundai K,Compact,452,Automatic,Electric,23.98,5,NULL,Premium,HSE
+Jaguar I-P,Premium,470,Automatic,Electric,112,5,656,S,Sportback 55
+Audi E-Tr,Premium,388,Automatic,Electric,180,5,405,Quattro,NULL
+BYD E6,Subcompact,415,Automatic,Electric,29.15,5,580,STD,NULL
+Mercedes,Compact,471,Automatic,Electric,100,5,NULL,NULL,NULL
+BMW iX,Premium,425,Automatic,Electric,116,5,NULL,NULL,NULL
+Porsche T,Premium,NULL,Automatic,Electric,150,4,NULL,NULL,NULL
+Audi E-Tr,Compact,400,Automatic,Electric,119,5,660,NULL,NULL
